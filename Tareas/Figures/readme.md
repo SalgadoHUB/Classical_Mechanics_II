@@ -1,0 +1,1 @@
+Figuras para los textos.
